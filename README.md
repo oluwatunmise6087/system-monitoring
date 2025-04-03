@@ -20,8 +20,10 @@
    
    grep "error" /var/log/syslog
   ![monitoring.5](monitoring.5.PNG)
+  ![edited-file](edited-file.PNG)
 
    # To send alerts when disk usage exceeds 90%.
    
    sudo crontab -e
    ![monitoring6](monitoring6.PNG)
+   ![added-file](added-file.PNG)
