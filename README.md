@@ -19,8 +19,8 @@
   # To search for specific entries in system logs
    
    grep "error" /var/log/syslog
-  ![monitoring.5](monitoring.5.PNG)
-  ![edited-file](edited-file.PNG)
+  ![new-monitoring2](new-monitoring2.PNG)
+  ![new-monitoring](new-monitoring.PNG)
 
    # To send alerts when disk usage exceeds 90%.
    
